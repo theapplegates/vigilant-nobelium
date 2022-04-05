@@ -39,4 +39,4 @@ return config
      domains: ['applegate-paul.mo.cloudinary.net'],
      formats: ['image/avif', 'image/webp']
    }
- })
+ }
